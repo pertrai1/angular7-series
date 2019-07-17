@@ -1,4 +1,5 @@
 # Angular7Series
+https://medium.com/better-programming/angular-7-series-part-2-create-custom-library-8d7a0494b2cc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 

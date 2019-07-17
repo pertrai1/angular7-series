@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng7-common": [
+        "dist/ng7-common"
+      ],
+      "ng7-common/*": [
+        "dist/ng7-common/*"
+      ]
+    }
   }
 }
